@@ -68,6 +68,7 @@ static struct {
 	{ { "\\label", NULL } , 1 },
 	{ { "\\ref", NULL } , 1 },
 	{ { "\\cref", NULL } , 1 },
+	{ { "\\tikz", NULL } , 1 },
 	{ { "\\crefrange", NULL } , 2 },
 	{ { "\\Cref", NULL } , 1 },
 	{ { "\\acs", NULL } , 1 },
