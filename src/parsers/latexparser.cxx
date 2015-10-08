@@ -69,6 +69,7 @@ static struct {
 	{ { "\\ref", NULL } , 1 },
 	{ { "\\cref", NULL } , 1 },
 	{ { "\\Cref", NULL } , 1 },
+	{ { "\\acs", NULL } , 1 },
 	{ { "\\pageref", NULL } , 1 },
 	{ { "\\parbox", NULL } , 1 },
 	{ { "\\begin{verbatim}", "\\end{verbatim}" } , 0 },
